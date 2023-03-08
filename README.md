@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="projeto Habits" src="github/Habits.png" width="100%">
+  <img alt="projeto Habits" src="git/Habits.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
